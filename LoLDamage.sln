@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoLDamage", "LoLDamage\LoLDamage.csproj", "{EC63CAA4-120A-4D61-A3B8-28A03C53254B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoLDamage.UITests", "LoLDamage.UITests\LoLDamage.UITests.csproj", "{C1ED3807-4748-44B8-B24D-7E50D9F66E60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1ED3807-4748-44B8-B24D-7E50D9F66E60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1ED3807-4748-44B8-B24D-7E50D9F66E60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1ED3807-4748-44B8-B24D-7E50D9F66E60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1ED3807-4748-44B8-B24D-7E50D9F66E60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC63CAA4-120A-4D61-A3B8-28A03C53254B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC63CAA4-120A-4D61-A3B8-28A03C53254B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC63CAA4-120A-4D61-A3B8-28A03C53254B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC63CAA4-120A-4D61-A3B8-28A03C53254B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
